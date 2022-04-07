@@ -1,0 +1,39 @@
+body {     
+    background-image: url('background-image.png') ;  
+    background-color: blueviolet;
+    font-family: 'Courier New', 'Courier New', Courier, monospace;
+}
+div {
+    height: 240px;
+    width: 800px;
+}
+.box{
+    
+    padding: 10px;
+    margin: 10px;
+
+}
+ /* الصوره*/
+.box1 {    
+    position: absolute; 
+    top: 50px;
+    left: 100px;
+
+}
+
+
+  /*البيانات بجانب الصورة*/
+.box2 {       
+    position: absolute;
+    left: 300px;
+    top: 50px;
+
+
+}
+a{
+    color: blue;
+}
+a:hover { 
+    color: blue;
+
+}
